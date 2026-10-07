@@ -1,34 +1,45 @@
 # Hi, I'm Thanvish 👋
 
-Backend developer building developer tools, AI systems, and cross-platform projects. Everything here is open source — steal what's useful.
+[![GitHub followers](https://img.shields.io/github/followers/thanvish21?style=social)](https://github.com/thanvish21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
 
-## 🌟 Featured
-
-| Repo | What it is |
-|------|-----------|
-| [**ThemeVerse**](https://github.com/thanvish21/themeverse) | 195 cartoon & anime themes (Ben 10, Naruto, DBZ…) for 10 dev tools — one `install.sh`, whole stack matches |
-| [**Prompt-VCS**](https://github.com/thanvish21/prompt-vcs) | Version control, A/B testing & auto-rollback for LLM prompts |
-| [**LLM Judge CI**](https://github.com/thanvish21/llm-judge-ci) | LLM evaluations in CI — block merges on quality regression |
-| [**Local Toxic Block**](https://github.com/thanvish21/local-toxic-block) | Offline LLM guardrail: credentials, PII, prompt injection — no model calls |
-| [**Claude Config**](https://github.com/thanvish21/claude-config) | My whole Claude Code setup: skills, agents, workflows, MCP |
-| [**Anime Skins**](https://github.com/thanvish21/anime-skins) | Anime themes with truecolor character-art heroes |
-
-## 🎨 Theme packs
-
-- [cartoon-network-skins](https://github.com/thanvish21/cartoon-network-skins) — 167 CN themes (Roll No 21 included)
-- [anime-skins](https://github.com/thanvish21/anime-skins) — 28 anime themes, real character art in the banner
-- [themeverse](https://github.com/thanvish21/themeverse) — everything above, in 10 formats, one installer
-
-## 🧠 AI / ML
-
-RAG evals, semantic chunking, synthetic users, MLOps, fraud detection, agent memory — see [ai-projects](https://github.com/thanvish21/ai-projects) (50-project monorepo) and the repos tagged `llm`.
-
-## 📈 Trading
-
-[gold-dominator](https://github.com/thanvish21/gold-dominator) — XAU/USD strategy + crypto arbitrage bot *(educational only)*
+**B.Tech CSE (Data Science) @ SRMIST** | Full-Stack Systems, AI/ML Infrastructure & Developer Tools.
 
 ---
 
-**Stats:** ![](https://img.shields.io/badge/repos-50%2B-4ade80) ![](https://img.shields.io/badge/themes-195-7873f5)
+## 🌟 Featured Projects & Infrastructure
 
-*Fan project note: all cartoon/anime characters belong to their owners; only derivative color themes are distributed.*
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**srm-wifi-daemon**](https://github.com/thanvish21/srm-wifi-daemon) | Autonomous 802.1X keep-alive & 24h auth manager with zero-drop campus networking. | `Python` `Systemd` `NetworkManager` |
+| [**ThemeVerse**](https://github.com/thanvish21/themeverse) | 195 cartoon & anime themes for 10 dev tools — one `install.sh`, whole stack matches. | `Shell` `CSS` `Lua` |
+| [**Prompt-VCS**](https://github.com/thanvish21/prompt-vcs) | Version control, A/B testing & auto-rollback for LLM prompts and evals. | `TypeScript` `Node.js` `FastAPI` |
+| [**LLM Judge CI**](https://github.com/thanvish21/llm-judge-ci) | LLM evaluations in CI/CD pipelines — blocks PR merges on model quality regressions. | `Python` `GitHub Actions` |
+| [**Local Toxic Block**](https://github.com/thanvish21/local-toxic-block) | Ultra-fast offline LLM guardrail: credentials, PII & prompt injection blocking. | `Rust` `Python` `ONNX` |
+| [**Dynamic Island Desktop**](https://github.com/thanvish21/dynamic-island) | Interactive desktop island for Linux & Windows with real-time hardware telemetry. | `Tauri 2.0` `Svelte 5` `Rust` |
+| [**Claude Config**](https://github.com/thanvish21/claude-config) | Multi-agent autonomous AI orchestration suite with specialized GSD & HyperResearch skills. | `TypeScript` `Claude Code` `MCP` |
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+```bash
+Languages    : Python, TypeScript, Rust, Go, C/C++, Bash, SQL
+AI / ML      : PyTorch, Hugging Face, LangChain, RAG Systems, Agentic Workflows
+Systems      : Linux (Kali / Debian), Systemd, Docker, Git, NetworkManager, Hyprland
+Backend      : FastAPI, Node.js, Starlette, Uvicorn, PostgreSQL, Redis
+```
+
+---
+
+## ⚡ Active Research & Engineering Focus
+
+- **Agentic Autonomous Systems:** Multi-stage hierarchical agent orchestration and real-time reflex loops.
+- **Resilient Networking:** Low-overhead campus daemon architectures for continuous egress connectivity.
+- **Applied AI / Machine Learning:** Knowledge graphification (`/graphify`), deep academic synthesis (`/hyperresearch`), and synthetic data pipelines.
+
+---
+
+<div align="center">
+  <sub>Engineered with precision by <b>M V Thanvish Reddy</b></sub>
+</div>
